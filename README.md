@@ -1,4 +1,4 @@
-### 🌏 Readme in **🇮🇷 فارسی** | [🇬🇧 English](README_en.md)
+### 🌏 Readme in **🇮🇷 فارسی** | [🇬🇧 English](README_EN.md)
 
 🎬 Movie World | Telegram Mini App
 
