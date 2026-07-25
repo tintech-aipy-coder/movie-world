@@ -1,4 +1,4 @@
-[![English](https://img.shields.io/badge/README-English-blue)](./README_EN.md)
+### 🌏 Readme in [Farsi](README_fa.md) | [English](README_en.md)
 
 🎬 Movie World | Telegram Mini App
 
